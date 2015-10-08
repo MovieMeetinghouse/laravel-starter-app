@@ -4,17 +4,19 @@ This is a simple starter app for Laravel 5.1 incorporating Vue.js, JWT Tokens, D
 include Bootstrap SASS, jQuery UI (with Bootstrap theme), Select2 (with Bootstrap theme), and FontAwesome.
 
 To install on a Homestead Vagrant box, just clone this repo
-(https://github.com/MovieMeetinghouse/laravel-starter-app.git) into your project directory, then run composer update, npm install, bower install, and gulp. (composer, npm, bower, and gulp must already be installed in your environment).
+(https://github.com/MovieMeetinghouse/laravel-starter-app.git) into your project directory, then run a composer
+update, npm install, bower install, and gulp. Note: Composer, NPM, Bower, Gulp, and Elixir must already be installed
+in your environment.
 
 A boilerplate Vue file and app.blade.php file are included for convenience.
 
-==Included Packages==
+#### Included Packages
 
 * Vue https://github.com/yyx990803/vue
 * Vue Resource https://github.com/vuejs/vue-resource
 * Dingo API https://github.com/dingo/api
 * JWT Auth https://github.com/tymondesigns/jwt-auth
-* Cors https://github.com/barryvdh/laravel-cors
+* CORS https://github.com/barryvdh/laravel-cors
 * IDE Helper https://github.com/barryvdh/laravel-ide-helper
 * Doctrine/Dbal https://github.com/doctrine/dbal
 * jQuery https://github.com/jquery/jquery
@@ -24,6 +26,10 @@ A boilerplate Vue file and app.blade.php file are included for convenience.
 * Font Awesome https://fortawesome.github.io/Font-Awesome/
 * jQuery UI Bootstrap theme http://gustavohenke.github.io/jquery-ui-bootstrap/
 * Select2 Bootstrap styles https://fk.github.io/select2-bootstrap-css/
+
+Follow the links above for more information on incorporating these packages in your own Laravel apps. No
+configuration is included here, but configuration files for jwt, cors, and dingo have been published to the config
+directory for convenience.
 
 ## Laravel PHP Framework
 

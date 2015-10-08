@@ -30,6 +30,10 @@ Follow the links above for more information on incorporating these packages in y
 configuration is included here, but configuration files for jwt, cors, and dingo have been published to the config
 directory for convenience.
 
+**Please Note:** This is a personal project starter, which I have generated for my own use, and am making available
+to anyone who finds it useful to implement in any manner they deem appropriate. No direct affiliation to Laravel and/or
+any of the other packages included here is implied. Everything herein is licensed under the MIT license.
+
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)

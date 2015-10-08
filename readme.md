@@ -3,10 +3,9 @@
 This is a simple starter app for Laravel 5.1 incorporating Vue.js, JWT Tokens, Dingo API, and CORS. Front end packages
 include Bootstrap SASS, jQuery UI (with Bootstrap theme), Select2 (with Bootstrap theme), and FontAwesome.
 
-To install on a Homestead Vagrant box, just clone this repo
-(https://github.com/MovieMeetinghouse/laravel-starter-app.git) into your project directory, then run a composer
-update, npm install, bower install, and gulp. Note: Composer and NPM must already be installed in your environment.
-Gulp and Bower must be installed before running them as well.
+To install: Clone this repo (https://github.com/MovieMeetinghouse/laravel-starter-app.git) into your project
+directory, then run a composer update, npm install, bower install, and gulp. Note: Composer and NPM must already be
+installed in your environment. Gulp and Bower must be installed before running them as well.
 
 A boilerplate Vue file and app.blade.php file are included for convenience.
 
